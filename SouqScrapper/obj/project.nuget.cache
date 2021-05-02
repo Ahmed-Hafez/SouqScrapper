@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "alaKk77KC+5v62uyBykHdkO2pnelc3E1RQ6rCeozlgOelRJ//7yp0CbBO/v3XNI8ooyUiA7CJcFhQjoOxkCVjQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\SouqScrapper\\SouqScrapper\\SouqScrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512"
+  ],
+  "logs": []
+}

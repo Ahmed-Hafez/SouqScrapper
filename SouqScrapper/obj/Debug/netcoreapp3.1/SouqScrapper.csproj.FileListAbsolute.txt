@@ -1,0 +1,14 @@
+E:\C#\SouqScrapper\SouqScrapper\bin\Debug\netcoreapp3.1\SouqScrapper.exe
+E:\C#\SouqScrapper\SouqScrapper\bin\Debug\netcoreapp3.1\SouqScrapper.deps.json
+E:\C#\SouqScrapper\SouqScrapper\bin\Debug\netcoreapp3.1\SouqScrapper.runtimeconfig.json
+E:\C#\SouqScrapper\SouqScrapper\bin\Debug\netcoreapp3.1\SouqScrapper.runtimeconfig.dev.json
+E:\C#\SouqScrapper\SouqScrapper\bin\Debug\netcoreapp3.1\SouqScrapper.dll
+E:\C#\SouqScrapper\SouqScrapper\bin\Debug\netcoreapp3.1\SouqScrapper.pdb
+E:\C#\SouqScrapper\SouqScrapper\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+E:\C#\SouqScrapper\SouqScrapper\obj\Debug\netcoreapp3.1\SouqScrapper.AssemblyInfoInputs.cache
+E:\C#\SouqScrapper\SouqScrapper\obj\Debug\netcoreapp3.1\SouqScrapper.AssemblyInfo.cs
+E:\C#\SouqScrapper\SouqScrapper\obj\Debug\netcoreapp3.1\SouqScrapper.csproj.CoreCompileInputs.cache
+E:\C#\SouqScrapper\SouqScrapper\obj\Debug\netcoreapp3.1\SouqScrapper.csproj.CopyComplete
+E:\C#\SouqScrapper\SouqScrapper\obj\Debug\netcoreapp3.1\SouqScrapper.dll
+E:\C#\SouqScrapper\SouqScrapper\obj\Debug\netcoreapp3.1\SouqScrapper.pdb
+E:\C#\SouqScrapper\SouqScrapper\obj\Debug\netcoreapp3.1\SouqScrapper.genruntimeconfig.cache
